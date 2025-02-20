@@ -2,4 +2,6 @@ Esta es la historia de Freddy Vega
 
 Algo de texto aqui 
 
+Otro cambio desde Visual Studio Code
+
 Fin
