@@ -10,6 +10,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: auto;
     padding: 1px;
+    border-color: black;
 }
 
 #container {
