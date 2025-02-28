@@ -24,3 +24,13 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    color: #DDD;
+    margin: 0 auto;
+    width: 70%;
+    display: block;
+    text-align: center;
+    background-color: rgb(34, 11, 65);
+    font-family: "Arial";
+}
