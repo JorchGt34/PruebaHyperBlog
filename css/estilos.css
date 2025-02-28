@@ -1,12 +1,25 @@
 body {
-    color: red;
+    color: black;
     text-align: left;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 22px;
+    background-color: gray;
+}
+
+#titulo-cabecera {
+    display: block;
+    padding: 0px;
+    font-size: 26px;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
 }
 
 #cabecera {
-    background-color: aqua;
+    background-color: rgba(44, 8, 98, 0.491);
     font-family: 'Times New Roman', Times, serif;
     margin: auto;
     padding: 1px;
@@ -19,8 +32,9 @@ body {
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: #DDD;
 }
 
 #container h1 {
-    font-size: 20px;
+    font-size: 24px;
 }
